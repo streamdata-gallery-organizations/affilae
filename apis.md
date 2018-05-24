@@ -1,18 +1,15 @@
 ---
 name: Affilae
 x-slug: affilae
-description: Eliminate your network and platform fees by managing your affiliate programs
-  in-house with Affilae. Migrate your top affilates over to Affilae and deal with
-  them directly. Give them the next generation performance marketing toolset required
-  to take your business to the next level (SEO ad links, customizable split commission
-  payouts, product feeds, etc...). Affilae offers all the necessary tools and more
-  for the efficient day to day management of a large and modern affiliate network.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/1999_logo.png
+description: Create, track & manage easily your own affiliate network. Affilae is
+  a SaaS affiliate marketing software improved by hundreds advertisers around the
+  world.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1999-affilae.jpg
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "108661"
 tags: Affilae
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/affilae/master/_listings/affilae/apis.md
 specificationVersion: "0.14"
 apis: []
@@ -25,8 +22,12 @@ x-common:
   url: https://affilae.com/en/blog/feed/
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/affilae
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/affilae
 - type: x-developer
   url: https://affilae.com/en/content/api
+- type: x-email
+  url: contact@affilae.com
 - type: x-twitter
   url: https://twitter.com/affilae
 - type: x-website
